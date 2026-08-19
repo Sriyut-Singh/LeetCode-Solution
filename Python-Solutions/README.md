@@ -31,10 +31,10 @@ Python-Solutions/
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 9      |
+| 🟢 Easy    | 10      |
 | 🟡 Medium  | 0      |
 | 🔴 Hard    | 0      |
-| **Total**  | **9**  |
+| **Total**  | **10**  |
 
 > This table will be updated as I solve more problems.
 
