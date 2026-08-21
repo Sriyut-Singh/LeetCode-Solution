@@ -24,11 +24,9 @@ class Solution():
     def isPalindrome(self, x):
         num = str(x)
         rev_num = num[::-1]
-
         for i in range(0, (len(num) + 1) // 2):
             if num[i] != rev_num[i]:
                 return False
-
         return True
 
 #Test
