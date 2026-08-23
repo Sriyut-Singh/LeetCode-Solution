@@ -39,9 +39,9 @@ Each contest has its own folder to keep the solutions organized and easy to navi
 
 ## 📊 Contest Progress
 
-|            Contest | Problems Solved |     Status     |
+|    Contest Number  | Problems Solved |     Status     |
 | -----------------: | :-------------: | :------------: |
-| Weekly Contest 516 |      4 / 4      |   ✅ Completed  |
+|                516 |      4 / 4      |   ✅ Completed  |
 |    Future Contests |        —        | 🔄 In Progress |
 
 > This table will be updated as I participate in more contests.
