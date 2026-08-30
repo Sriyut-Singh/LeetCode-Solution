@@ -33,15 +33,12 @@ There are no missing integers.
 Therefore, the answer is [].
 
 Constraints:
-
 1 <= nums.length <= 105
 1 <= nums[i] <= 105
 1 <= lower <= upper <= 105
 '''
 
-
 "-------------------------------------Solution-------------------------------------"
-
 
 class Solution:
     def findDisappearedNumbers(self, nums, lower, upper):
