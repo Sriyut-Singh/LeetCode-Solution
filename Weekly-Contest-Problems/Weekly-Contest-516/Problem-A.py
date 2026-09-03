@@ -1,6 +1,5 @@
 '''
 4030. Check ASCII Palindromic
-
 You are given a string s consisting of lowercase English letters.
 Construct a binary string by replacing each character in s with the 8-bit binary representation of its ASCII value, including leading zeros, while preserving the original order of the characters.
 Return true if the resulting binary string is a palindrome. Otherwise, return false.
@@ -32,6 +31,7 @@ s consists of lowercase English letters.
 
 "----------------------------------Solution------------------------------"
 
+
 class Solution:
     def isPalindromic(self, s):
         n = len(s)
@@ -43,5 +43,4 @@ class Solution:
             for j in range(8):
                 if ((a >> j) & 1) != ((b >> (7 - j)) & 1):
                     return False
-
         return True
