@@ -82,9 +82,6 @@ Solutions will generally follow this format:
 
 ```python
 # Problem: Two Sum
-# LeetCode: 1
-# Difficulty: Easy
-# Topic: Array, Hash Table
 
 class Solution:
     def twoSum(self, nums, target):
