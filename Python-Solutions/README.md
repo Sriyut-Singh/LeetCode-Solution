@@ -32,9 +32,9 @@ Python-Solutions/
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    | 13      |
-| 🟡 Medium  | 0      |
+| 🟡 Medium  | 1      |
 | 🔴 Hard    | 0      |
-| **Total**  | **13**  |
+| **Total**  | **14**  |
 
 > This table will be updated as I solve more problems.
 
